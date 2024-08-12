@@ -9,6 +9,8 @@ on:
 
 jobs:
   update-readme:
+    permissions:
+        contents: write
     name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
