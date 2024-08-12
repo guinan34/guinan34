@@ -1,9 +1,14 @@
 ## Hi there 👋
 
+Nice to meet you.
+
+
+<!--
 <img
   src="https://github.com/guinan34/guinan34/blob/main/images/stat.svg"
   alt="Guinan WakaTime Activity"
 />
+-->
 
 <!--
 **guinan34/guinan34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
